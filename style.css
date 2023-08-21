@@ -60,7 +60,7 @@ header{
 @media screen and (min-width: 820px) {
     .cabecalho{
         background-color: var(--cor-de-fundo);
-        color: var(--cinza-princial);
+        color: var(--branco-principal);
         font-size: 15px;
         text-align: justify; 
     }
